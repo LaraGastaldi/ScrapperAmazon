@@ -12,6 +12,10 @@ O get_products é uma função que retorna os últimos *8* produtos na lista de 
 - run_time
     - O tempo para rodar o script, em segundos
 
+## Passos para executar
+
+Siga as instruções do Python Venv para ativar o ambiente virtual na pasta venv. Após isso, rode `python get_products.py` para ver o retorno
+
 ## Casos de teste
 
 - O script deve rodar em menos de 20 segundos
